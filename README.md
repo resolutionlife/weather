@@ -2,7 +2,7 @@
 ## Brief
 
 You have been given some boilerplate code that was adapted from Create React App. You can install all dependencies with
-`yarn` and then start the application with `yarn start`.
+`yarn` or `npm i` and then start the application with `yarn start` or `npm run start`.
 
 Right now, the code isn't quite working, but the idea is to create an interface where a user can enter the names of
 cities and get up-to-date weather data. We provide you an API key, which can be used to call the openweather API as
