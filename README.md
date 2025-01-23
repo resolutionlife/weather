@@ -94,20 +94,6 @@ You should be provided the API key by your interviewer.
 }
 ```
 
-## Testing
-
-Write your tests using Jest and React Testing Library. Tests should be placed in files with `.test.tsx` or `.spec.tsx` extensions.
-
-To run the tests:
-
-```bash
-# Using npm
-npm test
-
-# Using yarn
-yarn test
-```
-
 ## Example Output
 
 <img width="228" alt="image" src="https://github.com/resolutionlife/weather-junior/assets/12024258/ab13cd45-17b9-4aec-9873-83b444b78636">
